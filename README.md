@@ -8,7 +8,7 @@ on around software sustainability in DOE, but it's not particularly visible. In 
 way. This repo contains all the responses to DOE RFI 2021-203582, listed by institution,
 so that more people can read them.
 
-Everything here is already avaialble from various DOE websites, but it's sometimes hard
+Everything here is already available from various DOE web sites, but it's sometimes hard
 to put it all together. This stuff is important to me, because I care a lot about
 scientific software sustainability. There's actually a *lot* of work around scientific
 software development that goes on at the national labs. If this is something you're
